@@ -473,6 +473,8 @@ section.workshop {
 }
 .navigation {
     background-color: rgb(19,16,17);
+    position: sticky;
+    top: 0;
 }
 .navigation .navigation-menu li.active a {
     color: #f9b233;

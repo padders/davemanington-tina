@@ -10,7 +10,6 @@
 {{ $jsjquery := resources.Get "plugins/jquery/dist/jquery.min.js" }}
 {{ $bootstrap := resources.Get "plugins/bootstrap/dist/js/bootstrap.min.js" }}
 {{ $jssmoothscrol := resources.Get "plugins/smooth-scroll/dist/js/smooth-scroll.min.js" }}
-{{ $jssticky := resources.Get "plugins/Sticky/jquery.sticky.js" }}
 {{ $jswow := resources.Get "plugins/wow/dist/wow.min.js" }}
 {{ $jsgeneral := resources.Get "js/script.js" }}
 {{ $jsValidate := resources.Get  "plugins/validate/jquery.validate.min.js" }}
@@ -21,7 +20,7 @@
 {{ $lazyLoad := resources.Get  "plugins/lozad/lozad.min.js" }}
 {{ $fancybox := resources.Get  "plugins/fancybox/jquery.fancybox.min.js" }}
 
-{{ $pluginJS := slice $jsjquery $bootstrap $jssmoothscrol $jssticky $jswow $jsValidate $jsUI $lazyLoad $jsgeneral | resources.Concat "assets/js/plugins.js" |  minify }}
+{{ $pluginJS := slice $jsjquery $bootstrap $jssmoothscrol $jswow $jsValidate $jsUI $lazyLoad $jsgeneral | resources.Concat "assets/js/plugins.js" |  minify }}
 {{ $defaultJS := slice $vanillaToTop $masonry $masonryLazyLoad $fancybox | resources.Concat "assets/js/global.js"   }}
 
 <script type="text/javascript">
