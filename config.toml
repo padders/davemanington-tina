@@ -1,0 +1,96 @@
+assetDir = "static/assets/"
+baseURL = "https://www.davemanington.com/"
+languageCode = "en-us"
+relativeurls = false
+theme = "meghna-hugo"
+title = "Dave Manington"
+summaryLength = 30
+[[menu.nav]]
+name = "Riff Raff"
+URL = "riffraff"
+weight = 1
+[[menu.nav]]
+URL = "press-media"
+name = "Press/Media"
+weight = 2
+[[menu.nav]]
+URL = "projects"
+name = "Projects/Links"
+weight = 3
+[[menu.nav]]
+name = "Live Dates"
+URL = "tour"
+weight = 4
+[[menu.nav]]
+URL = "/#contact-us"
+name = "Contact"
+weight = 5
+[params]
+custom_css = ["css/custom.css"]
+footerLogo = "images/footerLogo.jpg"
+gmapAPI = ""
+home = "Home"
+logo = "images/logo.jpg"
+[params.banner]
+bgImage = "images/slider/hero-area.jpg"
+btn = true
+btnText = "Explore Us"
+btnURL = "#services"
+content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+enable = true
+heading = "Experience the new reality"
+icon = "tf-ion-play"
+[params.counter]
+bgImage = "images/backgrounds/bg-1.jpg"
+enable = false
+[[params.counter.counterItem]]
+count = "320"
+icon = "tf-ion-android-happy"
+title = "Happy Clients"
+[[params.counter.counterItem]]
+count = "565"
+icon = "tf-ion-archive"
+title = "Projects completed"
+[[params.counter.counterItem]]
+count = "95"
+icon = "tf-ion-thumbsup"
+title = "Positive feedback"
+[[params.counter.counterItem]]
+count = "2500"
+icon = "tf-ion-coffee"
+title = "Cups of Coffee"
+[params.cta]
+btnText = "Start a project with us"
+btnURL = "#"
+content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+enable = false
+title = "Great Design & Incredible Features"
+[params.footer]
+copyright = "Themefisher Team"
+copyrightURL = "http://www.themefisher.com"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-facebook"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-twitter"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-google-outline"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-youtube"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-linkedin"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-dribbble-outline"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-pinterest-outline"
+url = "#"
+[permalinks]
+albums = "albums/:filename/"
+[taxonomies]
+category = "categories"
+tag = "tags"
