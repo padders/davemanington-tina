@@ -41,6 +41,10 @@ section_id = "partners"
 template = "partner-links"
 
   [[page_section.partners]]
+  url = "https://www.helpmusicians.org.uk/"
+  image = "/Help Musicians Logo (SB) CMYK Black.png"
+
+  [[page_section.partners]]
   url = "https://www.artscouncil.org.uk/"
   image = "/uploads/grant_jpeg_black.jpg"
 
