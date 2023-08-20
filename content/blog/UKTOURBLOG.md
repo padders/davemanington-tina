@@ -1,10 +1,10 @@
 +++
 date = 2023-07-28T23:00:00.000Z
 author = "dave manington"
-image = "/Riff Raff tour flyer 2023.jpg"
+image = "/uploads/Riff Raff tour flyer 2023.jpg"
 title = "UK TOUR"
 meta_description = "Riff Raff UK tour 2023"
-meta_og_image = "/Riff Raff tour flyer 2023.jpg"
+meta_og_image = "/uploads/Riff Raff tour flyer 2023.jpg"
 +++
 
 Hi everyone

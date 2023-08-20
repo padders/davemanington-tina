@@ -42,7 +42,7 @@ template = "partner-links"
 
   [[page_section.partners]]
   url = "https://www.helpmusicians.org.uk/"
-  image = "/Help Musicians Logo (SB) CMYK Black.png"
+  image = "/uploads/Help Musicians Logo (SB) CMYK Black.png"
 
   [[page_section.partners]]
   url = "https://www.artscouncil.org.uk/"
