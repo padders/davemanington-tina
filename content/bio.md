@@ -21,7 +21,7 @@ Bassist and composer Dave Manington is one of the mainstays of the London jazz s
 His debut quartet album “Headrush” was released on Loop Records in 2008 to critical acclaim. He followed this up with the 2013 Riff Raff album release “Hullabaloo” which was described as “Inventive, forward looking jazz that subtly pushes the envelope whilst remaining thoroughly accessible to the listener.” An even more ambitious Riff Raff album “Challenger Deep” came out in 2018 after an extensive Arts Council funded UK tour. He is also a founder member of the much respected e17 jazz collective.
 In 2023 he received funding from Help Musicians to take Riff Raff on another UK tour playing all new material, which was recorded in the studio for release as a new album coming in 2024."""
 add_image = true
-floating_image = "/uploads/home-page.jpg"
+floating_image = "/uploads/background image (01).png"
 image_side = false
 remove_padding_top = false
 remove_padding_bottom = true
