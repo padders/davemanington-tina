@@ -31,7 +31,7 @@ template = "albums"
 
 [[page_section]]
 section_title = "Upcoming Dates"
-display_limit = 10
+display_limit = 15
 all_gigs_url = "/tour"
 band_filter = ""
 template = "upcoming_gigs"
