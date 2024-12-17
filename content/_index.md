@@ -1,11 +1,11 @@
 +++
 date = "2019-01-04T16:18:19+00:00"
+title = "Dave Manington | Bass player, Composer, Arranger"
 meta_description = "Dave Manington, Bass player, Composer, Arranger, Jazz musician, London, Walthamstow, E17 Jazz Collective"
 meta_og_image = "/uploads/challenger-deep-art-zoomed.jpg"
-title = "Dave Manington | Bass player, Composer, Arranger"
 
 [[page_section]]
-banner_image = "/uploads/challenger-deep-art-zoomed.jpg"
+banner_image = "/uploads/background image (01).png"
 hero_title = "Bassist and composer Dave Manington is one of the mainstays of the London jazz scene"
 hero_text_content = """
 A founder member of the Loop Collective, he has played with many of the pre-eminent jazz musicians in the UK and Europe. He's also in demand for a broad range of different ensembles, playing with musicians from everywhere from South America to the Balkans.
