@@ -11,7 +11,7 @@ hero_text_content = """
 A founder member of the Loop Collective, he has played with many of the pre-eminent jazz musicians in the UK and Europe. He's also in demand for a broad range of different ensembles, playing with musicians from everywhere from South America to the Balkans.
 
 His debut quartet album "Headrush" was released on Loop Records in 2008 to critical acclaim. He followed this up with the 2013 Riff Raff album release “Hullabaloo” which was described as “Inventive, forward looking jazz that subtly pushes the envelope whilst remaining thoroughly accessible to the listener.” An even more ambitious Riff Raff album “Challenger Deep” came out in 2018 after an extensive Arts Council funded UK tour. He is also a founder member of the much respected e17 jazz collective.
-A new tour and album is planned for late 2023."""
+A new album "Weightless" was released on Lamplight Social Records in Feb 2025"""
 link_btn = true
 hero_button_text = "Dave's Full Bio"
 hero_button_url = "/bio"
