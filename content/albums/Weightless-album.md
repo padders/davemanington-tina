@@ -62,6 +62,8 @@ text = "Bebopspokenhere"
 url = "https://lance-bebopspokenhere.blogspot.com/2025/02/album-review-dave-maningtons-riff-raff.html"
 
 [[band_members]]
+name = "Brigitte Beraha"
+url = "https://www.brigitteberaha.com/about"
 
 [[music]]
 +++
