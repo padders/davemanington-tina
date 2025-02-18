@@ -62,6 +62,10 @@ text = "Bebopspokenhere"
 url = "https://lance-bebopspokenhere.blogspot.com/2025/02/album-review-dave-maningtons-riff-raff.html"
 
 [[band_members]]
+name = "Rob updegraff"
+url = "https://www.robupdegraff.com/"
+
+[[band_members]]
 name = "Ivo Neame"
 url = "https://www.ivoneame.com/"
 
