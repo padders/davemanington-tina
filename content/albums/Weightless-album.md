@@ -82,5 +82,7 @@ name = "Brigitte Beraha"
 url = "https://www.brigitteberaha.com/about"
 
 [[music]]
+type = "bandcamp album"
+embed_code = '<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2635295658/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://davemanington.bandcamp.com/album/weightless">Weightless by Dave Manington</a></iframe>'
 +++
 
